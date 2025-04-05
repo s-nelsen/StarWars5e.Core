@@ -62,7 +62,7 @@ Then the GM determines the results of the adventurers' actions and narrates what
 
 The game has no real end; when one story or quest wraps up, another one can begin, creating an ongoing story called a **campaign**. Many people who play the game keep their campaigns going for months or years, meeting with their friends every week or so to pick up the story where they left off. The adventurers grow in might as the campaign continues. Each force defeated, each adventure completed, and each relic recovered not only adds to the continuing story, but also earns the adventurers new capabilities. This increase in power is reflected by an adventurer's level.
 
-There's no winning and losing in *any* <span style="font-variant: small-caps">Dungeons and Dragons</span> game—at least, not the way those terms are usually understood. Together, the GM and the players create an exciting story of bold adventurers who confront deadly perils. Sometimes an adventurer might come to a grisly end, torn apart by ferocious monsters or done in by a nefarious villain. Even so, the other adventurers can beseech a powerful Jedi to revive their fallen comrade, or the player might choose to create a new character to carry on. The group might fail to complete an adventure successfully, but if everyone had a good time and created a memorable story, they all win.
+There's no winning and losing in *any* <span style="font-variant: small-caps">Dungeons and Dragons</span> gameâ€”at least, not the way those terms are usually understood. Together, the GM and the players create an exciting story of bold adventurers who confront deadly perils. Sometimes an adventurer might come to a grisly end, torn apart by ferocious monsters or done in by a nefarious villain. Even so, the other adventurers can beseech a powerful Jedi to revive their fallen comrade, or the player might choose to create a new character to carry on. The group might fail to complete an adventure successfully, but if everyone had a good time and created a memorable story, they all win.
 
 ## Worlds of Adventure
 The many worlds of the *Star Wars* <span style="font-variant: small-caps">Dungeons and Dragons</span> game are places of mysticism and monsters, of brave warriors and spectacular adventures. They begin with a foundation of science fiction and fantasy and then add the creatures, places, and mystery that make these worlds unique.
@@ -173,7 +173,7 @@ Over the course of their adventures, the characters are confronted by a variety 
 
 Adventures vary in length and complexity. A short adventure might present only a few challenges, and it might take no more than a single game session to complete. A long adventure can involve hundreds of combats, interactions, and other challenges, and take dozens of sessions to play through, stretching over weeks or months of real time. Usually, the end of an adventure is marked by the adventurers heading back to safety to rest and enjoy the spoils of their labors.
 
-But that's not the end of the story. You can think of an adventure as a single episode of a TV series, made up of multiple exciting scenes. A campaign is the whole series—a string of adventures joined together, with a consistent group of adventurers following the narrative from start to finish.
+But that's not the end of the story. You can think of an adventure as a single episode of a TV series, made up of multiple exciting scenes. A campaign is the whole seriesâ€”a string of adventures joined together, with a consistent group of adventurers following the narrative from start to finish.
 
 ### The Force and Technology
 Few *Star Wars* adventures end without interacting with a force- or tech-caster. Whether helpful or harmful, powers appear frequently in the life of an adventurer, and it is the focus of chapters 10, 11, and 12.
@@ -184,7 +184,7 @@ For adventurers, though, the Force and technology are key to their survival. Wit
 
 \columnbreak
 
-The Force and technology are also a favored tool of villains. Many adventures are driven by the machinations of casters who are hell-bent on using power for some ill end. A mercenary leader subjugates the surrounding community, a renegade Sith saps the life from their victims, a vindictive droid takes over a space station with the intent of destroying its oppressors—these are just a few of the threats that adventurers might face. With power of their own, in the form of the Force and special items, the adventurers might prevail!
+The Force and technology are also a favored tool of villains. Many adventures are driven by the machinations of casters who are hell-bent on using power for some ill end. A mercenary leader subjugates the surrounding community, a renegade Sith saps the life from their victims, a vindictive droid takes over a space station with the intent of destroying its oppressorsâ€”these are just a few of the threats that adventurers might face. With power of their own, in the form of the Force and special items, the adventurers might prevail!
 
 ### The Three Pillars of Adventuring 
 Adventurers can try to do anything their players can imagine, but it can be helpful to talk about their activities in three broad categories: exploration, social interaction, and combat.
@@ -198,7 +198,7 @@ Social interaction features the adventurers talking to someone (or something) el
 The rules in chapters 7 and 8 support exploration and social interaction, as do many class features in chapter 3 and personality traits in chapter 4.
 
 #### Combat
-Combat, the focus of chapter 9, involves characters and other creatures swinging weapons, casting powers, maneuvering for position, and so on—all in an effort to defeat their opponents, whether that means killing every enemy, taking captives, or forcing a rout. Combat is the most structured element of a D&D session, with creatures taking turns to make sure that everyone gets a chance to act. Even in the context of a pitched battle, there's still plenty of opportunity for adventurers to attempt wacky stunts like surfing down a flight of stairs on a shield, to examine the environment (perhaps by flipping a mysterious switch), and to interact with other creatures, including allies, enemies, and neutral parties.
+Combat, the focus of chapter 9, involves characters and other creatures swinging weapons, casting powers, maneuvering for position, and so onâ€”all in an effort to defeat their opponents, whether that means killing every enemy, taking captives, or forcing a rout. Combat is the most structured element of a D&D session, with creatures taking turns to make sure that everyone gets a chance to act. Even in the context of a pitched battle, there's still plenty of opportunity for adventurers to attempt wacky stunts like surfing down a flight of stairs on a shield, to examine the environment (perhaps by flipping a mysterious switch), and to interact with other creatures, including allies, enemies, and neutral parties.
 
 <div class='footnote'>INTRODUCTION</div>
 
