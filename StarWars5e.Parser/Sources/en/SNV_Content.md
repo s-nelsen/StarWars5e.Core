@@ -4,13 +4,13 @@
 <img src="https://www.gmbinder.com/images/JA2xrqp.png" style="position:absolute; left:18px; top:120px; width:48px;" />
 
 ## Abeloth
-Abeloth, also known as the Bringer of Chaos and Beloved Queen of the Stars, is a being very powerful in both the dark the light sides of the Force. She first lived as the Servant, a mortal woman who served the powerful Ones on an unknown jungle planet over a hundred thousand years before the Battle of Yavin. Over the course of her life, she became the Mother: she kept the peace between the Father's warring Son and Daughter and became a loving part of the family. But she was still mortal—she grew old while her ageless family lived on—and she feared she would lose her precious family. In a desperate attempt to hold onto the life she so loved, she drank from the Font of Power and bathed in the Pool of Knowledge. Her actions corrupted her, transforming the Mother into the twisted, immortal entity known as Abeloth.
+Abeloth, also known as the Bringer of Chaos and Beloved Queen of the Stars, is a being very powerful in both the dark the light sides of the Force. She first lived as the Servant, a mortal woman who served the powerful Ones on an unknown jungle planet over a hundred thousand years before the Battle of Yavin. Over the course of her life, she became the Mother: she kept the peace between the Father's warring Son and Daughter and became a loving part of the family. But she was still mortalâ€”she grew old while her ageless family lived onâ€”and she feared she would lose her precious family. In a desperate attempt to hold onto the life she so loved, she drank from the Font of Power and bathed in the Pool of Knowledge. Her actions corrupted her, transforming the Mother into the twisted, immortal entity known as Abeloth.
 
-***Loneliness.*** Abeloth is antagonized by loneliness; she feels an absolute need to be loved and adored. She has fed her cravings by instilling in Force-sensitives a desire to be with her, and in turn catered to their every need and assumed the role as their mother. This need stems from her original fear of losing her family. When her family abandoned her on their planet—the very reason she committed her crimes in the first place—she was driven insane by loneliness and despair. She feeds on fear and destruction in an attempt to gain more power; her ultimate goal is to recreate her lost family. She may try to force players to drink from the Font of Power, attempting to make replacements for the Son and Daughter.
+***Loneliness.*** Abeloth is antagonized by loneliness; she feels an absolute need to be loved and adored. She has fed her cravings by instilling in Force-sensitives a desire to be with her, and in turn catered to their every need and assumed the role as their mother. This need stems from her original fear of losing her family. When her family abandoned her on their planetâ€”the very reason she committed her crimes in the first placeâ€”she was driven insane by loneliness and despair. She feeds on fear and destruction in an attempt to gain more power; her ultimate goal is to recreate her lost family. She may try to force players to drink from the Font of Power, attempting to make replacements for the Son and Daughter.
 
 ***Appearance.*** Abeloth has the ability to change her appearance at will. However, Abeloth's true form is that of a humanoid and barely-female being with deeply-sunken black eye sockets and tiny silver eyes reminiscent of tiny stars at the bottom of a deep well. She has a long cascade of straw-like, honey-blond hair that reaches to the ground and a large, full-lipped mouth that stretches from ear-to-ear and contains needle-like teeth. Her arms are stubby, protruding no more than ten centimeters from her shoulders, with hands that had long, writhing tentacles for fingers with suction cup tips. Her body is rigid and straight, and when she walks or runs, her legs ripple forward more than they swing. In addition, her body may be enshrouded in mist, giving her an ethereal aspect to her already frightening appearance.
 
-***Powers & Abilities.***  Abeloth's strength in the Force is a dozen times that of the most powerful Force user in the galaxy.  She wields exceptional telekinetic powers, being able to release waves of Force energy that cause beings in her vicinity to implode, those farther away to be ripped to pieces, and buildings to melt to the ground. She is also able to teleport herself from one place to another. Abeloth can produce a Force-flash, affecting the visuals of ships in an entire star system. Abeloth can command the native flora of her planet.  She has the ability to influence the minds of Force-sensitive beings who have spent an extended period of time in the Maw, causing a psychosis which makes them believe that everyone—except for other such psychotic beings—has been replaced by impostors and instilling in them a desire to find her. 
+***Powers & Abilities.***  Abeloth's strength in the Force is a dozen times that of the most powerful Force user in the galaxy.  She wields exceptional telekinetic powers, being able to release waves of Force energy that cause beings in her vicinity to implode, those farther away to be ripped to pieces, and buildings to melt to the ground. She is also able to teleport herself from one place to another. Abeloth can produce a Force-flash, affecting the visuals of ships in an entire star system. Abeloth can command the native flora of her planet.  She has the ability to influence the minds of Force-sensitive beings who have spent an extended period of time in the Maw, causing a psychosis which makes them believe that everyoneâ€”except for other such psychotic beingsâ€”has been replaced by impostors and instilling in them a desire to find her. 
 
 \columnbreak
 
@@ -122,7 +122,7 @@ On initiative count 20 (losing initiative ties), Abeloth can take a lair action 
 
 #### Regional Effects
 The region around Abeloth's lair is warped by her will, creating the following effect:
-- If a humanoid spends at least 1 hour within 1 mile of the Lair, that creature must succeed on a DC 23 Wisdom saving throw or descend into madness: "Everyone—except for other such psychotic beings—has been replaced by imposters.  I must find Abeloth." A creature that succeeds on this saving throw can't be effected by this regional effect again for 24 hours.  This madness lasts until cured or until Abeloth is defeated.
+- If a humanoid spends at least 1 hour within 1 mile of the Lair, that creature must succeed on a DC 23 Wisdom saving throw or descend into madness: "Everyoneâ€”except for other such psychotic beingsâ€”has been replaced by imposters.  I must find Abeloth." A creature that succeeds on this saving throw can't be effected by this regional effect again for 24 hours.  This madness lasts until cured or until Abeloth is defeated.
 
 If Abeloth is defeated, these effects fade over the course of 1d10 days.
 
@@ -210,7 +210,7 @@ ___
 > |22 (+6)|9 (0)|17 (+3)|3 (-4)|11 (+0)|5 (-3)|
 > ___
 > - **Senses** passive perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 5 (1,800 XP)
 > ___
 > ***Trampling Charge.*** If the acklay moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the acklay can make one claw attack against it as a bonus action.
@@ -237,7 +237,7 @@ ___
 > |25 (+7)|10 (0)|20 (+5)|3 (-4)|11 (+0)|5 (-3)|
 > ___
 > - **Senses** passive perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 8 (3,900 XP)
 > ___
 > ***Trampling Charge.*** If the acklay moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 19 Strength saving throw or be knocked prone. If the target is prone, the acklay can make one claw attack against it as a bonus action.
@@ -280,7 +280,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** blindsight 120 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 3 (700 XP)
 > ___
 > ***Dive Attack.*** If the aiwha is flying and dives at least 30 feet straight toward a target and then hits it with a bite attack, the attack deals an extra 10 (3d6) damage to the target.
@@ -305,7 +305,7 @@ ___
 ## Anooba
 Anoobas were aggressive pack predators native to Tatooine. Opportunistic hunters as well as scavengers, these wolflike canines would attack virtually anything smaller than themselves (such as scurriers) and would band together in packs to bring down rontos, eopies, and similar creatures.
 
-Strong, horny beaks on their jaws assisted in the breaking of thick skeletons, while long, tufted tails helped to counterbalance the body and dissipate heat. Anoobas could vary in weight from 20 to 45 kilograms—males being larger than females—and often banded into packs of ten to twelve. These units were dominated by an alpha male and alpha female, and it was not uncommon to see entire packs waiting alongside podrace courses for an easy meal.
+Strong, horny beaks on their jaws assisted in the breaking of thick skeletons, while long, tufted tails helped to counterbalance the body and dissipate heat. Anoobas could vary in weight from 20 to 45 kilogramsâ€”males being larger than femalesâ€”and often banded into packs of ten to twelve. These units were dominated by an alpha male and alpha female, and it was not uncommon to see entire packs waiting alongside podrace courses for an easy meal.
 
 Like the winged urusai, accounts tell of anoobas being so engorged on meals that they are unable to move. This may be due in part to the fact that anooba mothers fed their young, born three to four at a time, through regurgitation.
 
@@ -433,7 +433,7 @@ The HK series assassin droid, also known as the HK series protocol droid, is a c
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-> *"Yes, as I said, I am an assassin droid. It is my primary function to burn holes through meatbags that you wish removed from the galaxy… Master. Oh, how I hate that term."*
+> *"Yes, as I said, I am an assassin droid. It is my primary function to burn holes through meatbags that you wish removed from the galaxyâ€¦ Master. Oh, how I hate that term."*
 >
 > -HK-47, to Meetra Surik, on his functionality 
 
@@ -827,7 +827,7 @@ ___
 > |22 (+6)|9 (-1)|17 (+3)|3 (-4)|11 (0)|6 (-2)|
 > ___
 > - **Senses** passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 4 (1,100 XP)
 > ___
 > ***Trampling Charge.*** If the bantha moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the bantha can make one stomp attack against it as a bonus action.
@@ -854,7 +854,7 @@ ___
 > |24 (+7)|9 (-1)|21 (+5)|3 (-4)|11 (0)|6 (-2)|
 > ___
 > - **Senses** passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 6 (2,300 XP)
 > ___
 > ***Trampling Charge.*** If the bantha moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the bantha can make one stomp attack against it as a bonus action.
@@ -1425,7 +1425,7 @@ ___
 > - **Skills** Perception +7
 > - **Damage Resistance** energy; ion and kinetic from unenhanced weapons
 > - **Senses** darkvision 60 ft., passive Perception 17
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 9 (5,000 XP)
 > ___
 > ***Reactive Heads.*** The hydra gets an extra reaction that can be used only for opportunity attacks.
@@ -1455,7 +1455,7 @@ ___
 ## Blurrg
 Blurrgs were a two-legged non-sentient species that were used as beasts of burden on a number of worlds located across the galaxy, including Endor, Ryloth, and Zygerria. Stoic and strong, they are used for everything from agricultural labor to war; the Twi'lek Resistance on Ryloth rode blurrgs in battle during the Battle of Ryloth, where they were used at the final offensive against Separatist forces in Lessu, charging at droid troops with the Grand Army of the Republic's Lightning Squadron.
 
-The blurrg's huge mouth could chew through almost anything edible, which made it perfect for clearing savanna grass, weeds, and saplings. Blurrgs were strong, fast, but stupid—so much so that they walked right into small trees, knocking them down. The egg-laying creatures usually produced 5 or 6 babies at a time. In their early years babies stayed very close to their mothers for protection from Boar-wolves. Blurrgs communicated through a series of roars. They are also vicious when driven to a fury, and are reputedly noisy when agitated.
+The blurrg's huge mouth could chew through almost anything edible, which made it perfect for clearing savanna grass, weeds, and saplings. Blurrgs were strong, fast, but stupidâ€”so much so that they walked right into small trees, knocking them down. The egg-laying creatures usually produced 5 or 6 babies at a time. In their early years babies stayed very close to their mothers for protection from Boar-wolves. Blurrgs communicated through a series of roars. They are also vicious when driven to a fury, and are reputedly noisy when agitated.
 
 \columnbreak
 
@@ -1475,7 +1475,7 @@ ___
 > ___
 > - **Skills** Athletics +6
 > - **Senses** passive Perception 8
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Siege Monster.*** The blurrg deals double damage to objects and structures.
@@ -1529,7 +1529,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/8 (25)
 > ___
 > ***Beast of Burden.*** The bogwing is considered to be a Medium animal for the purposes of determining its carrying capacity.
@@ -1556,7 +1556,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Beast of Burden.*** The bogwing is considered to be a Large animal for the purposes of determining its carrying capacity.
@@ -1861,7 +1861,7 @@ ___
 > ___
 > - **Skills** Perception +4
 > - **Senses** darkvision 60 ft., passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 3 (700 XP)
 > ___
 > ***Unhindered Movement.*** The dragon's movement speed is not reduced while moving with a grappled creature.
@@ -1882,9 +1882,9 @@ ___
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Crowds
-The galaxy is a dangerous and cruel place. Wars, cruel empires, criminal syndicates, and the predation of terrible beasts can destroy whole towns and force their inhabitants to become beggars, vagabonds and brigands. All who endure such hardships are hardened by their losses, staring at the face of danger and saying, “no more!”, taking their protection into their own hands.
+The galaxy is a dangerous and cruel place. Wars, cruel empires, criminal syndicates, and the predation of terrible beasts can destroy whole towns and force their inhabitants to become beggars, vagabonds and brigands. All who endure such hardships are hardened by their losses, staring at the face of danger and saying, â€œno more!â€, taking their protection into their own hands.
 
-***Unity is Strength.*** Fear and resignation are the strength of beasts and tyrants, despair is the fuel of revolt. Despair makes you stand and fight until the last sentient. When abandoned by lords, Jedi and the Force, the common man turns toward his neighbor for mutual protection. If separately they are no match for a beast or a trained trooper, an entire village or town banding together and fueled by despair, faith or hatred can take down their foe. Theses masses can become a force to reckon with, embodying the proverb “unity is strength”. A crowd can potentially include several individuals of high power, which would be left standing or escape once the crowd disperses.
+***Unity is Strength.*** Fear and resignation are the strength of beasts and tyrants, despair is the fuel of revolt. Despair makes you stand and fight until the last sentient. When abandoned by lords, Jedi and the Force, the common man turns toward his neighbor for mutual protection. If separately they are no match for a beast or a trained trooper, an entire village or town banding together and fueled by despair, faith or hatred can take down their foe. Theses masses can become a force to reckon with, embodying the proverb â€œunity is strengthâ€. A crowd can potentially include several individuals of high power, which would be left standing or escape once the crowd disperses.
 
 ***Crowd Mind.*** Racist pogrom chasing wookiees down the streets, slaves fighting for their freedom and ousting a tyrant, or commoners taking to the streets to protest the emperor; all are good examples of a crowd. A crowd is moved by its own motivations and the individuals that form it can differ widely, but once the crowd mind takes them, they act in unison toward a single purpose. Reasoning with a crowd can prove difficult, as the behaviors of both the individual crowd members and the crowd is heavily influenced by the loss of responsibility of the individual and the impression of universality of behavior, increasing with the size of the crowd.
 
@@ -2228,7 +2228,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1 (200)
 > ___
 >
@@ -2259,7 +2259,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450)
 > ___
 >
@@ -2441,7 +2441,7 @@ ___
 > - **Skills** Perception +4, Stealth +5
 > - **Damage Resistance** acid, poison; energy, ion, and kinetic from unenhanced weapons
 > - **Senses** passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 8 (3,900 XP)
 > ___
 > ***Hold Breath.*** The dragonsnake can hold its breath for 1 hour.
@@ -2845,7 +2845,7 @@ ___
 > - **Damage Vulnerabilities** ion
 > - **Damage Immunities** energy
 > - **Senses**  blindsight 10 ft., darkvision 120 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Energy Absorption,*** Whenever the spider is subjected to energy damage, it takes no damage and instead regains a number of hit points equal to the energy damage dealt.
@@ -2866,7 +2866,7 @@ ___
 > #### GM Note: Glitterstim
 > Giving the user a brief, pleasurable, telepathic boost and heightened mental state, glitterstim is a valuable and potent variety of the drug family "spice" that is mined on Kessel and is tightly controlled by the Galactic Empire.
 >
-> Produced from the webs of spice spiders, the spice is photoactive, so it has to be mined in total darkness and packaged in an opaque paper or be ruined. Glitterstim is quite addictive—casual use can quickly lead to full-blown addiction. "Cutters" prepare the spice for sale. Glitterstim addicts are sometimes called "glit-biters."
+> Produced from the webs of spice spiders, the spice is photoactive, so it has to be mined in total darkness and packaged in an opaque paper or be ruined. Glitterstim is quite addictiveâ€”casual use can quickly lead to full-blown addiction. "Cutters" prepare the spice for sale. Glitterstim addicts are sometimes called "glit-biters."
 
 <img src='https://www.gmbinder.com/images/3PXM0or.png' style='position:absolute;top:490px;left:70px;width:300px' />
 
@@ -2897,7 +2897,7 @@ The exogorth, colloquially known as the space slug, is a gigantic species of too
 
 Crimson slugs are native to the asteroids of Tapani sector and distinguished by a red stripe down either side of the body.
 
-Cularin space slugs are found in the Cularin system and are comparatively easy to train. Some theorize that they are descended from a domesticated form of space slug. Other theories hold that these exogorths are descended from natives to the world which formed the Cularin system asteroid belt (Oblis) before its destruction, and that these creatures survived and adapted to the void of space. They may have been related to—or the same creature as—the space worms which hollowed out the moon Eskaron.
+Cularin space slugs are found in the Cularin system and are comparatively easy to train. Some theorize that they are descended from a domesticated form of space slug. Other theories hold that these exogorths are descended from natives to the world which formed the Cularin system asteroid belt (Oblis) before its destruction, and that these creatures survived and adapted to the void of space. They may have been related toâ€”or the same creature asâ€”the space worms which hollowed out the moon Eskaron.
 
 </div>
 
@@ -2926,7 +2926,7 @@ ___
 > - **Saving Throws** Con +8, Wis +4
 > - **Damage Resistance** acid and poison (interior only); energy, ion, and kinetic from unenhanced weapons (exterior only)
 > - **Senses** Blindsight 30 Ft., Tremorsense 60 Ft., passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 11 (7,200 XP)
 > ___
 > ***Tunneler.*** The exogorth can burrow through solid rock at half its burrow speed and leaves a 5-foot-diameter tunnel in its wake.
@@ -2966,7 +2966,7 @@ ___
 > - **Saving Throws** Con +11, Wis +4
 > - **Damage Resistance** acid and poison (interior only); energy, ion, and kinetic from unenhanced weapons (exterior only)
 > - **Senses** Blindsight 30 Ft., Tremorsense 60 Ft., passive Perception 9
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 15 (13,000 XP)
 > ___
 > ***Tunneler.*** The exogorth can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
@@ -3031,7 +3031,7 @@ ___
 > ___
 > - **Saving Throws** Con +5
 > - **Senses** passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 3 (700 XP)
 > ___
 > ***Amphibious.*** The fambaa can breathe air and water.
@@ -3061,7 +3061,7 @@ ___
 > ___
 > - **Saving Throws** Con +5
 > - **Senses** passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 5 (1,800 XP)
 > ___
 > ***Amphibious.*** The fambaa can breathe air and water.
@@ -3276,7 +3276,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 0 (25 XP)
 > ___
 > ***Keen Sight and Smell.*** The flutterplume has advantage on Wisdom (Perception) checks that rely on sight or smell.
@@ -3975,8 +3975,8 @@ ___
 > - **Damage Vulnerabilities** ion
 > - **Damage Resistances** necrotic, poison, psychic
 > - **Condition Immunities** poison, disease
-> - **Senses** —
-> - **Languages** —
+> - **Senses** â€”
+> - **Languages** â€”
 > - **Challenge** 4 (1,100 XP)
 > ___
 >
@@ -4031,8 +4031,8 @@ ___
 > - **Damage Resistances** psychic
 > - **Damage Immunities** poison, necrotic
 > - **Condition Immunities** poisoned, disease, frightened, petrified, restrained, incapacitated, stunned, prone, blinded, charmed
-> - **Senses** —
-> - **Languages** —
+> - **Senses** â€”
+> - **Languages** â€”
 > - **Challenge** 11 (7,200 XP)
 > ___
 >
@@ -4163,7 +4163,7 @@ ___
 > - **Damage Immunities** poison, necrotic
 > - **Condition Immunities** poisoned, disease, frightened, petrified, restrained, incapacitated, stunned, prone, blinded, charmed
 > - **Senses** passive perception 12
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 13 (10,000)
 > ___
 > ***Circuitry.*** The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
@@ -4230,7 +4230,7 @@ ___
 > - **Damage Resistances** psychic
 > - **Damage Immunities** poison, necrotic
 > - **Condition Immunities** poisoned, disease, frightened, petrified, restrained, incapacitated, stunned, prone, blinded, charmed
-> - **Senses** —
+> - **Senses** â€”
 > - **Challenge** 6 (2,300 XP)
 > ___
 >
@@ -4576,7 +4576,7 @@ ___
 > - **Skills** Stealth +5, Perception +3
 > - **Damage Resistance** kinetic
 > - **Senses** passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 6 (2,300 XP)
 > ___
 > ***Ambusher.*** In the first round of a combat, the ghest has advantage on attack rolls against any creature it surprised.
@@ -4623,7 +4623,7 @@ ___
 > |2 (-4)|14 (+2)|7 (-2)|2 (-4)|10 (0)|5 (-3)|
 > ___
 > - **Senses** blindsight 120 ft. (blind beyond this radius), passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 0 (10 XP)
 > ___
 > ***Echolocation.*** The gizka can't use its blindsight while deafened.
@@ -4660,7 +4660,7 @@ ___
 > - **Damage Resistance** energy, kinetic
 > - **Condition Immunities** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
 > - **Senses** blindsight 120 feet (blind beyond this radius), passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/4 (50 XP)
 > ___
 > ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny gizka. The swarm can't regain hit points or gain temporary hit points.
@@ -4690,7 +4690,7 @@ Gorax have immense strength; they are capable of uprooting a large tree effortle
 
 <div style='margin-top:28px'></div>
 
-&emsp;***Behavior.*** Gorax live in mountainous areas and rarely show themselves. Although they mostly behave like savage animals, they display a capacity to use objects as crude tools—for example, using an uprooted tree as a blunt weapon. Moreover, some wear crude pieces of clothing, like a sash made of furs and skulls, or a belted loincloth.
+&emsp;***Behavior.*** Gorax live in mountainous areas and rarely show themselves. Although they mostly behave like savage animals, they display a capacity to use objects as crude toolsâ€”for example, using an uprooted tree as a blunt weapon. Moreover, some wear crude pieces of clothing, like a sash made of furs and skulls, or a belted loincloth.
 
 <br><br><br><br>
 
@@ -4767,7 +4767,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** darkvision 60 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Rampage.*** When the gundark reduces a creature to 0 hit points with a melee attack on its turn, the gundark can take a bonus action to move up to half its speed and make a claw attack.
@@ -4803,7 +4803,7 @@ ___
 > ___
 > - **Skills** Perception +4
 > - **Senses** darkvision 60 ft., passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Rampage.*** When the gundark reduces a creature to 0 hit points with a melee attack on its turn, the gundark can take a bonus action to move up to half its speed and make a claw attack.
@@ -4834,7 +4834,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** Darkvision 120 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 9 (5000 XP)
 > ___
 > ***Siege Monster.*** The gundark deals double damage to objects and structures.
@@ -4867,7 +4867,7 @@ ___
 > - **Saving Throws** Dex +4, Con +4 
 > - **Skills** Perception +4
 > - **Senses** darkvision 60 ft., passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 4 (1,100 XP)
 > ___
 > ***Aura of Blood Thirst.*** If the matriarch isn't incapacitated, any other gundark can make a melee attack as a bonus action while within 10 feet of the matriarch.
@@ -4923,7 +4923,7 @@ ___
 > ___
 > - **Damage Resistance** energy, kinetic, and ion from unenhanced weapons
 > - **Senses** darkvision 60 ft., passive Perception 9
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 4 (1,100 XP)
 > ___
 > ***Wounded Fury.*** While it has 10 hit points or fewer, the gutkurr has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.
@@ -4969,7 +4969,7 @@ ___
 > ___
 > - **Skills** Perception +6
 > - **Senses** blindsight 60 ft., passive Perception 16
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/4 (50 XP)
 > ___
 > ***Echolocation.*** The hawk-bat loses blindsight when deafened.
@@ -5004,7 +5004,7 @@ ___
 > - **Damage Resistance** energy, kinetic
 > - **Condition Immunities** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
 > - **Senses** blindsight 60 ft., passive Perception 16
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small hawk-bats. The swarm can't regain hit points or gain temporary hit points.
@@ -5032,7 +5032,7 @@ Hssiss, or dark side dragons, are a lizard species with the ability to influence
 
 ***Abilities.*** Hssiss have a potent, venomous bite filled or powered by the Dark Side. Hssiss also have the ability to conceal themselves and become invisible, possibly doing so through the Force. 
 
-***Origins.*** Hssiss originated as savage reptilian predators on Ambria, and were one of the few creatures to survive the planet's destruction. They lived in and near Lake Natth, where Jedi Master Thon had imprisoned the dark side energies that had plagued the planet for millennia. The dark spirits then began to possess the creatures, turning them into something much fouler—it is said that these "dark side dragons" aided those who used the dark side of the Force. Eventually, Great Bogga began to use them as body guards and pitted them against those who had failed him. When he realized how effective and vicious they were, he had them transported off-world and sold in bulk. Soon, Hssiss could be found all over the galaxy, especially on worlds where the dark side was strong, including Korriban, Mimban and Vjun.
+***Origins.*** Hssiss originated as savage reptilian predators on Ambria, and were one of the few creatures to survive the planet's destruction. They lived in and near Lake Natth, where Jedi Master Thon had imprisoned the dark side energies that had plagued the planet for millennia. The dark spirits then began to possess the creatures, turning them into something much foulerâ€”it is said that these "dark side dragons" aided those who used the dark side of the Force. Eventually, Great Bogga began to use them as body guards and pitted them against those who had failed him. When he realized how effective and vicious they were, he had them transported off-world and sold in bulk. Soon, Hssiss could be found all over the galaxy, especially on worlds where the dark side was strong, including Korriban, Mimban and Vjun.
 
 \columnbreak
 
@@ -5084,7 +5084,7 @@ Hutts are a large slug-like sentient species native to the planet Nal Hutta. The
 
 ***Biology & Appearance.*** Hutts have large mouths, stubby arms, and three lungs. They are tough and muscular with thick leathery skin, which is wrinkled and slimy.  Their tails are supported by a skeletal spine. Despite their legendary adult size, Hutts start out as tiny Huttlets less than half a meter in height.
 
-Their homeworld of Nal Hutta has a hot atmosphere and is frequently streaked by greasy rains, creating a fetid sauna in which Hutts are most comfortable. Hutts can live for centuries—Jabba was 604 when he was killed—and can grow to enormous sizes.
+Their homeworld of Nal Hutta has a hot atmosphere and is frequently streaked by greasy rains, creating a fetid sauna in which Hutts are most comfortable. Hutts can live for centuriesâ€”Jabba was 604 when he was killedâ€”and can grow to enormous sizes.
 
 Some Hutts suffer from a genetic defect that causes their skin to be bereft of pigment and prone to cracking.
 
@@ -6503,7 +6503,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** darkvision 30 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Keen Hearing and Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -6531,7 +6531,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** darkvision 30 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Keen Hearing and Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -6559,7 +6559,7 @@ K'lor'slugs are dangerous vermiforms native to the swamps of Noe'ha'on. They wer
 
 ***Biology & Appearance.*** K'lor'slugs are large worm-like creatures that possess a serpentine body propelled by many dangerously-edged legs. The mouth is a gaping circular maw filled with concentric rings of teeth.
 
-***Behavior.*** K'lor'slugs are carnivorous hunters on their homeworld, possessing keen olfactory and visual senses in addition to a deadly venom. For reproduction, the creatures lay more than 300 eggs in a single birthing period. When hatched, the young k'lor'slug is immediately ravenous for food. In addition to their aggressiveness, these creatures are considered pests aboard starships. They are known to invade the darkest spots on unsanitary space vehicles and breed. When dealing with more than 300 eggs hatching, an infestation aboard a space vehicle could become harder to control—and more potentially fatal—the longer it is tolerated.
+***Behavior.*** K'lor'slugs are carnivorous hunters on their homeworld, possessing keen olfactory and visual senses in addition to a deadly venom. For reproduction, the creatures lay more than 300 eggs in a single birthing period. When hatched, the young k'lor'slug is immediately ravenous for food. In addition to their aggressiveness, these creatures are considered pests aboard starships. They are known to invade the darkest spots on unsanitary space vehicles and breed. When dealing with more than 300 eggs hatching, an infestation aboard a space vehicle could become harder to controlâ€”and more potentially fatalâ€”the longer it is tolerated.
 
 ***Cultural Impact.*** Because of their notoriety as an aggressive and deadly species, they are used as a holomonster playing piece in the popular strategy game, dejarik.
 
@@ -6625,7 +6625,7 @@ ___
 > - **Skills** Stealth +3
 > - **Damage Vulnerabilities** fire
 > - **Senses** darkvision 60 ft., passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Distress Spores.*** When the spider takes damage, all other spiders within 240 feet of it can sense its pain.
@@ -6657,7 +6657,7 @@ ___
 > - **Damage Resistance** kinetic; energy and ion from unenhanced weapons 
 > - **Condition Immunities** blinded, deafened, exhaustion
 > - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 5 (1,800)
 > ___
 > ***Distress Spores.*** When the spider takes damage, all other spiders within 240 feet of it can sense its pain.
@@ -6700,7 +6700,7 @@ ___
 > |8 (-1)|14 (+2)|11 (+0)|5 (-2)|12 (+1)|6 (-2)|
 > ___
 > - **Senses** passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 0 (10 XP)
 > ___
 > ***Pack Tactics.*** The monkey-lizard has advantage on attack rolls against a creature if at least one of the monkey-lizard's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -6726,7 +6726,7 @@ ___
 > - **Damage Resistances** energy, kinetic
 > - **Condition Immunities** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
 > - **Senses** passive Perception 15
-> - **Languages** –
+> - **Languages** â€“
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Pack Tactics.*** The swarm has advantage on attack rolls against a creature while at more than half of its hit points.
@@ -6815,7 +6815,7 @@ ___
 > - **Damage Immunities** poison
 > - **Condition Immunities** poisoned
 > - **Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 18
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 17 (18,000 XP)
 > ___
 > ***Legendary Resistance.*** (3/Day): If the dragon fails a saving throw, it can choose to succeed instead.
@@ -6933,7 +6933,7 @@ ___
 > - **Skills** Perception +6
 > - **Damage Resistance** energy, ion, and kinetic from unenhanced weapons
 > - **Senses** darkvision 60 ft., passive Perception 16
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 7 (2,900 XP)
 > ___
 > ***Tunneler.*** The lylek can burrow through solid rock at half it burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
@@ -6987,7 +6987,7 @@ ___
 > - **Skills** Stealth +6
 > - **Damage Resistance** fire, energy
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Force Sensitive.*** The maalraas's forcecasting ability is Wisdom (power save DC 11, +3 to hit with force attacks). The maalraas innately knows the following force powers:
@@ -7042,7 +7042,7 @@ ___
 > - **Skills** Perception +3
 > - **Damage Resistance** energy, ion, and kinetic from unenhanced weapons
 > - **Senses** darkvision 60 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Keen Hearing and Smell.*** The massiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -7163,7 +7163,7 @@ ___
 
 <br>
 
-> *"I have to tell you…I'm shocked that such a beautiful woman could be so vicious."*
+> *"I have to tell youâ€¦I'm shocked that such a beautiful woman could be so vicious."*
 >
 > -Sienn Sconn
 
@@ -7252,7 +7252,7 @@ ___
 > - **Skills** Stealth +15, Perception +4
 > - **Damage Resistances** acid (interior only)
 > - **Senses** Blindsight 30 ft., Tremorsense 60 ft., passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 10 (5,900 XP)
 > ___
 >
@@ -7300,7 +7300,7 @@ ___
 > - **Damage Resistances**  energy, ion, and kinetic from unenhanced weapons in solid form
 > - **Condition Immunities** prone, grappled, restrained in liquid form
 > - **Senses** passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Shifting Molecules.*** When the salamander enters or exits water, it changes the form of its molecular structure to mimic its surroundings. Other than its AC, its statistics are the same in each form. Any object it is wearing or carrying isn't transformed.
@@ -7430,7 +7430,7 @@ ___
 > - **Damage Vulnerabilities** energy
 > - **Damage Resistances** ion and kinetic from unenhanced weapons
 > - **Senses** darkvision 60 ft., passive Perception 12
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 3 (700 XP)
 > ___
 > ***Shadow Stealth.*** While lightly or heavily obscured, the narglatch can take the Hide action as a bonus action.
@@ -7478,7 +7478,7 @@ ___
 > - **Saving Throws** Dex +8
 > - **Skills** Perception +5, Stealth +8
 > - **Senses** darkvision 60 ft., truesight 60 ft., passive Perception 15
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 5 (1,800 XP)
 > ___
 > ***Avoidance.*** If the nexu is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails .
@@ -7507,7 +7507,7 @@ ___
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-> *"Oh! It's a nexu – and she has cubs! How cute!"*
+> *"Oh! It's a nexu â€“ and she has cubs! How cute!"*
 >
 > *"For creatures with four eyes and a mouthful of teeth, they are rather cute."*
 >
@@ -7525,9 +7525,9 @@ ___
 ## Opee Sea Killer
 The opee sea killer, sometimes referred to as simply an opee, is a large meat-eating crustaceous sea creature of approximately 60 feet in length. A hybrid of crustacean and fish, the opee sea killer is indigenous to the watery planet core of Naboo. 
 
-***Biology.*** The opee is a predator often found clung to rocky outcroppings or hidden in caverns or under ledges awaiting its prey. When forced to move, the opee is perfectly adapted to swim—in its own unusual way—sucking water into its mouth and jet propelling it from pores beneath armored plates at the rear of its body. This unique technique, coupled with three pairs of powerful legs and a pair of pectoral guidance fins, allows the opee to accelerate quickly underwater. Once in range of prey, the opee extends its massive adhesive tongue, successfully reeling in its prey to a vicious, gaping maw of multi-rowed teeth. The opee also uses the long, antennae-like stalks protruding from above its head as lures to draw prey towards its double rows of fangs. Their thick chitinous hide can deflect small arms laser fire, along with glancing shots from heavy fire.
+***Biology.*** The opee is a predator often found clung to rocky outcroppings or hidden in caverns or under ledges awaiting its prey. When forced to move, the opee is perfectly adapted to swimâ€”in its own unusual wayâ€”sucking water into its mouth and jet propelling it from pores beneath armored plates at the rear of its body. This unique technique, coupled with three pairs of powerful legs and a pair of pectoral guidance fins, allows the opee to accelerate quickly underwater. Once in range of prey, the opee extends its massive adhesive tongue, successfully reeling in its prey to a vicious, gaping maw of multi-rowed teeth. The opee also uses the long, antennae-like stalks protruding from above its head as lures to draw prey towards its double rows of fangs. Their thick chitinous hide can deflect small arms laser fire, along with glancing shots from heavy fire.
 
-Opees are known to be mouth breeders, with the male opee carrying fertilized eggs inside its mouth for three months—forcing the male to fast until the young are born. From birth, opees can sustain themselves instinctively (and gruesomely). It is not unknown for unhatched opee eggs to be swallowed by colo claw fish, creatures later killed in a grisly manner when the new-born young chew their way out of the colo's stomach. This can also occur if the colo swallows young opees alive.
+Opees are known to be mouth breeders, with the male opee carrying fertilized eggs inside its mouth for three monthsâ€”forcing the male to fast until the young are born. From birth, opees can sustain themselves instinctively (and gruesomely). It is not unknown for unhatched opee eggs to be swallowed by colo claw fish, creatures later killed in a grisly manner when the new-born young chew their way out of the colo's stomach. This can also occur if the colo swallows young opees alive.
 
 ***Across the Galaxy.*** By unknown means, opees were introduced to Aquilaris, and can be seen swimming by the tunnels in which podraces take place.
 
@@ -7551,7 +7551,7 @@ ___
 > ___
 > - **Skills** Stealth +6
 > - **Senses** passive Perception 10, Darkvision 60 ft.
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 5 (1800 XP)
 > ___
 > ***Kidnapper*** The sea killer may move at full speed while grappling a creature.
@@ -7889,7 +7889,7 @@ ___
 <br><br><br><br><br><br><br><br><br><br><br>
 
 > #### &nbsp;GM Note: Domesticated Trees
-> Predatory vesuvague trees were kept at the south end<br> &nbsp;of Gardulla the Hutt's pleasure garden within her<br> &nbsp;&nbsp;&nbsp;Tatooine palace, located near the Dune Sea. The<br> &nbsp;&nbsp;&nbsp;&nbsp;garden's many denizens and forced tourists would<br> &nbsp;&nbsp;&nbsp;observe, not without horror, how the tree's limbs<br> &nbsp;&nbsp;would suddenly drop and attempt to strangle, more often successfully than not, unwary passersby—captive beings that Gardulla constrained to enter the garden for her own and others' perverse entertainment.
+> Predatory vesuvague trees were kept at the south end<br> &nbsp;of Gardulla the Hutt's pleasure garden within her<br> &nbsp;&nbsp;&nbsp;Tatooine palace, located near the Dune Sea. The<br> &nbsp;&nbsp;&nbsp;&nbsp;garden's many denizens and forced tourists would<br> &nbsp;&nbsp;&nbsp;observe, not without horror, how the tree's limbs<br> &nbsp;&nbsp;would suddenly drop and attempt to strangle, more often successfully than not, unwary passersbyâ€”captive beings that Gardulla constrained to enter the garden for her own and others' perverse entertainment.
 >
 > Momaw Nadon planted a vesuvague tree in his secret garden in the mountains south of Mos Eisley on Tatooine. It acted as a watchdog for the site, and its reputation warded off stormtroopers and local police. The grove also concealed a secret chamber for hiding local Rebels.
 
@@ -7921,7 +7921,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
-> - **Languages** –
+> - **Languages** â€“
 > - **Challenge** 0 (10 XP)
 > ___
 > ***Keen Smell.*** The porg has advantage on Wisdom (Perception) checks that rely on smell.
@@ -7947,7 +7947,7 @@ ___
 > - **Damage Resistances** energy, kinetic
 > - **Condition Immunities** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
 > - **Senses** passive Perception 15
-> - **Languages** –
+> - **Languages** â€“
 > - **Challenge** 1/4 (50 XP)
 > ___
 > ***Keen Smell.*** The swarm has advantage on Wisdom (Perception) checks that rely on smell.
@@ -8121,7 +8121,7 @@ ___
 
 The Viper Probe Droid is a deep-space exploration and reconnaissance probe droid produced by Arakyd Industries. The probe droid is equipped with a blaster cannon and a self-destruct mechanism. 
 
-The lightly-armored Viper droid measures 1.6 meters in height with six manipulator arms extending from a central pod and several retractable sensor arms for gathering samples. High resolution receivers and sensors cover the domed head—including motion, acoustic, sonic, and seismic sensors, a radiation meter, magnetic imager, and holocamera. It has an atmosphere sensor capable of determining a planet's atmosphere class within one half-hour. It moves on a repulsorlift generator which is equipped to operate over any terrain. One of the arms is high-torque, and the droid is equipped with a floodlight on its head. 
+The lightly-armored Viper droid measures 1.6 meters in height with six manipulator arms extending from a central pod and several retractable sensor arms for gathering samples. High resolution receivers and sensors cover the domed headâ€”including motion, acoustic, sonic, and seismic sensors, a radiation meter, magnetic imager, and holocamera. It has an atmosphere sensor capable of determining a planet's atmosphere class within one half-hour. It moves on a repulsorlift generator which is equipped to operate over any terrain. One of the arms is high-torque, and the droid is equipped with a floodlight on its head. 
 
 Information is relayed back to superiors via a high-frequency HoloNet transceiver. Vipers are delivered to their targets through single-use custom built hyperspace pods. They are commonly deployed along the perimeters of key strategic star systems and hyperlanes to act as automated guardians.
 
@@ -8177,7 +8177,7 @@ Protocol droids are programmed mostly for etiquette, and are often used as trans
 
 They possess knowledge about various cultures and customs, both to advise those for whom they were working, and to ensure their own behavior is diplomatic and culturally sensitive.
 
-***History.*** Protocol droids constructed around 4000 BBY (around the time of the Great Sith War and the Jedi Civil War) were frequently engineered with certain behavioral shifts set to occur whenever another design-generation was reached. A number of these droids underwent radical changes with each new generation—for example, when a C7-model droid supplanted the C6 variety. Each numeric "jump" in sequence could have had wide-ranging changes in functionality and temperament during that historical period.
+***History.*** Protocol droids constructed around 4000 BBY (around the time of the Great Sith War and the Jedi Civil War) were frequently engineered with certain behavioral shifts set to occur whenever another design-generation was reached. A number of these droids underwent radical changes with each new generationâ€”for example, when a C7-model droid supplanted the C6 variety. Each numeric "jump" in sequence could have had wide-ranging changes in functionality and temperament during that historical period.
 
 ***Programming Units.*** Cybot Galactica, the most famous and successful manufacturer of protocol droids, outfit them with SyntheTech AA-1 VerboBrains to give their droids personalities with emotions and the ability to learn and grow very similar to organic beings. The 3PO unit possesses a TranLang III communications module that can reproduce over six million languages, as well as reproduce any sound it picks up. Linguistic modules are also used to improve their speech functions. Some models, such as the pricey E-3POs, also include the TechSpan I module, making it possible to interface with Imperial networks and undocumented technologies of Imperial subcontractors.
 
@@ -8190,9 +8190,9 @@ It was quarantined on Quarantine World III in Kallidahin Space for centuries bef
 
 <br>
 
-> *“Hello! I'm Triple-Zero and I'm looking forward immensely to torturing you today.”*
+> *â€œHello! I'm Triple-Zero and I'm looking forward immensely to torturing you today.â€*
 >
-> — 0-0-0
+> â€” 0-0-0
 
 \columnbreak
 
@@ -8270,7 +8270,7 @@ ___
 ### L0M Series
 The LOM-series protocol droid was manufactured by Industrial Automaton and were designed with insectile features to emulate the species they were created to serve: the sentient Gand. The LOM-series had a flaw that allowed the personality software of a droid to be corrupted. Many LOM-series droids became enforcers in the galaxy's Outer Rim Territories. The most notable, 4-LOM, became a bounty hunter, sometimes seen with the Gand, Zuckuss.
 
-Aside from the insectile face, the LOM protocol droid was very similar to the 3PO-series—indeed, Industrial Automaton made crafty deals with companies such as SyntheTech, to use many components initially used by Cybot Galactica. Thus, the LOM-series possessed an AA-1 VerboBrain and a TranLang III communications module programmed with millions of languages; it even had a similar body frame and plating design. Such blatant use of its trademark hardware caused Cybot Galactica to file a number of lawsuits against its rival company. Though their LOM units sold well in limited release, Industrial Automaton's future plans to monopolize the protocol droid market were dashed.
+Aside from the insectile face, the LOM protocol droid was very similar to the 3PO-seriesâ€”indeed, Industrial Automaton made crafty deals with companies such as SyntheTech, to use many components initially used by Cybot Galactica. Thus, the LOM-series possessed an AA-1 VerboBrain and a TranLang III communications module programmed with millions of languages; it even had a similar body frame and plating design. Such blatant use of its trademark hardware caused Cybot Galactica to file a number of lawsuits against its rival company. Though their LOM units sold well in limited release, Industrial Automaton's future plans to monopolize the protocol droid market were dashed.
 
 \columnbreak
 
@@ -8318,7 +8318,7 @@ ___
 <img src="https://www.gmbinder.com/images/JA2xrqp.png" style="position:absolute; left:18px; top:120px; width:48px;" />
 
 ## Rakghouls
-Rakghouls are a living plague–the manifestation of a highly communicable disease capable of swiftly transforming its victims into twisted, degenerate monsters with predatory instincts. The rakghoul virus can infect hundreds of known species and is most often delivered through a rakghoul's bite; a person attacked by a rakghoul and “lucky” enough to survive typically becomes a rakghoul him- or herself. Some victims resist the virus for days, succumbing to rakghoul instincts while retaining their original bodies.
+Rakghouls are a living plagueâ€“the manifestation of a highly communicable disease capable of swiftly transforming its victims into twisted, degenerate monsters with predatory instincts. The rakghoul virus can infect hundreds of known species and is most often delivered through a rakghoul's bite; a person attacked by a rakghoul and â€œluckyâ€ enough to survive typically becomes a rakghoul him- or herself. Some victims resist the virus for days, succumbing to rakghoul instincts while retaining their original bodies.
 
 ***Behavior.*** Hideous and possessing an appetite for flesh, Rakghouls are non-sentient, and are most commonly simple and animalistic in behavior. These feral rakghouls, known also as "lower rakghouls", are slaves to their instincts and especially their hunger, often traveling in packs numbering between four and eight, and attacking anything that looks or smells like potential food. Though they hold to no form of heirarchy, certain rakghouls, known to some as "rakghoul fiends", exhibit a manner of influence over their "lower" rakghoul brethren. Hardy and vicious, these rakghouls are generally believed to somehow maintain bits of their former intelligence, and direct other rakghouls to trap and ambush prey; it is even rumored that these rakghouls can use weapons.
 
@@ -8344,7 +8344,7 @@ ___
 > ___
 > - **Skills** Perception +2
 > - **Senses** passive Perception 12
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Rakghoul Plague.*** Creatures that come in contact with the rakghoul may become afflicted with rakghoul plague, a virulent disease that transforms the creature into a rakghoul over the next 24 (7d6) hours. The plague is only effective against humanoids.
@@ -8381,7 +8381,7 @@ ___
 > ___
 > - **Skills** Athletics +6, Perception +3
 > - **Senses** passive Perception 12
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 5 (1,800 XP)
 > ___
 > ***Rakghoul Plague.*** Creatures that come in contact with the rakghoul may become afflicted with rakghoul plague, a virulent disease that transforms the creature into a rakghoul over the next 24 (7d6) hours. The plague is only effective against humanoids.
@@ -8422,7 +8422,7 @@ ___
 > ___
 > - **Saving Throws** Str +10, Dex +4, Con +10, Wis +4
 > - **Senses** darkvision 120 ft., passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 12 (8,400 XP)
 > ___
 > ***Siege Monster.*** The rancor deals double damage to objects and structures.
@@ -8465,7 +8465,7 @@ ___
 > |19 (+4)|11 (+0)|20 (+5)|4 (-3)|9 (-1)|6 (-2)|
 > ___
 > - **Senses** darkvision 120 ft., passive Perception 9
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ### Actions
@@ -8498,7 +8498,7 @@ ___
 > |20 (+5)|11 (+0)|21 (+5)|4 (-3)|9 (-1)|6 (-2)|
 > ___
 > - **Senses** darkvision 120 ft., passive Perception 9
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 8 (3,900 XP)<br><br>
 > ___
 > ***Siege Monster*** The rancor deals double damage to objects and structures.
@@ -8531,7 +8531,7 @@ ___
 > - **Skills** Athletics +13
 > - **Damage Resistances** energy, ion, and kinetic fron unenhanced weapons
 > - **Senses** darkvision 120 ft., passive Perception 16
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 19 (22,000 XP)
 > ___
 > ***Siege Monster.*** The Rancor deals double damage to objects and structures.
@@ -8592,7 +8592,7 @@ Rathtars were large, carnivorous cephalopods that were native to the planet Twon
 
 ***Feeding.*** Lacking a true skeleton, a rathtar had an enormous, round, slug-like body covered in light-reactive sensing orbs. They possessed multiple long, tentacle-like appendages; their principle feeding tentacles whipped out to capture and devour prey, which typically consisted of anything they perceived as non-rathtar. The creatures were ravenous and persistent eaters, capable of consuming virtually anything that they could fit into their robust, radial mouths, which were funnel-shaped and lined with rows of razor sharp teeth. Their throat distended outward into a hollow tongue, useful for swallowing struggling prey. The bilious creatures typically tore their meals apart piece by piece.
 
-***Movement.*** Capable of locomotion, rathtars curled their ambulatory tentacles inward to form a ball and roll themselves forward in a whirl of whipping tentacles. They moved deceptively fast for their size, and had adhesive pads on their pointed tentacle tips—known as a club—which helped them attach to surfaces. 
+***Movement.*** Capable of locomotion, rathtars curled their ambulatory tentacles inward to form a ball and roll themselves forward in a whirl of whipping tentacles. They moved deceptively fast for their size, and had adhesive pads on their pointed tentacle tipsâ€”known as a clubâ€”which helped them attach to surfaces. 
 
 ***Tentacles and Tougness.*** Their tentacles had enormous strength, and were of a muscular hydrostat form. Their fleshy bodies were covered in a hard, rubbery exterior, giving the rathtars a heavy resistance to blaster bolts, small-arms fire, and even biting attacks.
 
@@ -8633,7 +8633,7 @@ ___
 > - **Damage Resistances** poison
 > - **Condition Immunities** poisoned, prone
 > - **Senses** blindsight 60 ft., passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 5 (1,800 XP)
 > ___
 >
@@ -8670,7 +8670,7 @@ ___
 > - **Damage Resistances** poison; energy, ion, and kinetic from unenhanced weapons
 > - **Condition Immunities** poisoned, prone
 > - **Senses** blindsight 60 ft., passive Perception 15
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 9 (5,000 XP)
 > ___
 >
@@ -8717,7 +8717,7 @@ ___
 > |21 (+5)|8 (-1)|15 (+2)|2 (-4)|12 (+1)|6 (-2)|
 > ___
 > - **Senses** passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Charge.*** If the reek moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) kinetic damage. If the target is a Large or smaller, it must succeed on a DC 15 Strength saving throw or be knocked prone.
@@ -8741,7 +8741,7 @@ ___
 > |23 (+6)|8 (-1)|17 (+3)|2 (-4)|12 (+1)|6 (-2)|
 > ___
 > - **Senses** passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 7 (2,900 XP)
 > ___
 > ***Charge.*** If the reek moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 18 (4d8) kinetic damage. If the target is a Huge or smaller, it must succeed on a DC 15 Strength saving throw or be knocked prone.
@@ -8898,7 +8898,7 @@ ___
 > - **Damage Immunities** cold, lightning; kinetic, ion, and energy from unenhanced weapon attacks
 > - **Condition Immunities** frightened, paralyzed, restrained
 > - **Senses** blindsight (while submerged) 120 ft., darkvision 120 ft., passive Perception 22
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 25 (75,000 XP)
 > ___
 > ***Amphibious.*** The monster can breathe air and water.
@@ -8995,7 +8995,7 @@ ___
 > - **Damage Resistances** sonic; energy, ion, and kinetic from unenhanced weapons
 > - **Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, prone
 > - **Senses** tremorsense 300 ft., passive Perception 16
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 21 (22,000 XP)
 > ___
 > ***Legendary Resistance (3/day).*** If the Sarlacc fails a saving throw, it can choose to succeed instead.
@@ -9065,7 +9065,7 @@ ___
 > ___
 > - **Skills** Stealth +7, Perception +4
 > - **Senses** darkvision 60 ft., passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 7 (2,900 XP)
 > ___
 > ***Ambusher.*** In the first round of a combat, the scrange has advantage on attack rolls against any creature it surprised.
@@ -9293,7 +9293,7 @@ ___
 > - **Damage Immunities** cold, necrotic, poison
 > - **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 > - **Senses** darkvision 60 ft., passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 4 (1,100 XP)
 > ___
 > ***Space-borne.*** The starweird can survive in the vacuum of space.
@@ -9352,7 +9352,7 @@ ___
 > - **Skills** Stealth +4, Percpection +3
 > - **Damage Resistances** energy, ion, and kinetic from unenhanced weapons 
 > - **Senses** darkvision 60 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Amphibious.*** The steep can breathe air and water.
@@ -10615,7 +10615,7 @@ ___
 > |16 (+3)|10 (+0)|12 (+1)|2 (-4)|11 (+0)|7 (-2)|
 > ___
 > - **Senses** passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/4 (50 XP)
 > ___
 > ***Trampling Charge.*** If the varactyl moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the varactyl can make another attack with its bite against it as a bonus action.
@@ -10639,7 +10639,7 @@ ___
 > |18 (+4)|12 (+1)|13 (+1)|2 (-4)|12 (+1)|7 (-2)|
 > ___
 > - **Senses** passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Trampling Charge.*** If the varactyl moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the varactyl can make another attack with its bite against it as a bonus action.
@@ -10686,7 +10686,7 @@ ___
 > ___
 > - **Skills** Perception +4, Stealth +6
 > - **Senses** darkvision 60 ft., passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1 (200 XP)
 > ___
 > ***Force Tracking.*** The vornskr can sense the presence of force creatures and objects up to 1 mile away. It knows the general direction they're in but not their exact locations.
@@ -10715,7 +10715,7 @@ ___
 
 <div class='wide'>
 
-Voxyn are a genetic cross between a fero xyn and a vornskr—both deadly predators—shaped into being by the sentient Yuuzhan Vong species. Designed to hunt and kill the Force-sensitive Jedi of the galaxy, the reptilian hounds are all clones of the voxyn queen.
+Voxyn are a genetic cross between a fero xyn and a vornskrâ€”both deadly predatorsâ€”shaped into being by the sentient Yuuzhan Vong species. Designed to hunt and kill the Force-sensitive Jedi of the galaxy, the reptilian hounds are all clones of the voxyn queen.
 
 ***Biology.*** The cells of voxyn deteriorate at a rapid rate if they are not exposed to a nutrient from the planet Myrkr, and as such, voxyn in other parts of the galaxy typically do not survive for more than a few months. Voxyn are naturally sterile.
 
@@ -10806,7 +10806,7 @@ ___
 > - **Skills** Perception +3, Stealth +3
 > - **Damage Immunities** cold
 > - **Senses** darkvision 60 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 3 (700 XP)
 > ___
 > ***Fear of Fire.*** If the wampa takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
@@ -10836,7 +10836,7 @@ ___
 > ___
 > - **Skills** Athletics +8, Perception +4, Stealth +3
 > - **Senses** darkvision 60 ft., passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 5 (1,800 XP)
 > ___
 > ***Keen Smell.*** The wampa has advantage on Wisdom (Perception) checks that rely on smell.
@@ -10866,7 +10866,7 @@ ___
 > ___
 > - **Skills** Perception +2, Stealth +2
 > - **Senses** darkvision 60 ft., passive Perception 12
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 4 (1,100 XP)
 > ___
 > ***Putrid Smell.*** The wampa has disadvantage on Dexterity (Stealth) checks. At the start of each wampas turns, each creature within 5 feet of it must succeed on a DC 14 Constitution saving throw or take 10 (4d4) poison damage.
@@ -11307,7 +11307,7 @@ ___
 > ___
 > - **Skills** Stealth +9
 > - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 4 (1,100 XP)
 > ___
 > ***Pack Tactics.*** The wyyyschokk has advantage on an attack roll against a creature if at least one of the wyyyschokk's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -11331,7 +11331,7 @@ ___
 <img src="https://www.gmbinder.com/images/JA2xrqp.png" style="position:absolute; left:18px; top:120px; width:48px;" />
 
 ## Ysalamiri
-Ysalamiri are furry, lizard-like tree-dwellers about 2 feet in length, native to the planet Myrkr, and most known for their ability to create a Force-neutral bubble. This ability evolved in response to predation by the Force-sensitive vornskrs. Many ysalamiri grouped together would expand their Force-neutral bubble by varying distances – sometimes by kilometers.
+Ysalamiri are furry, lizard-like tree-dwellers about 2 feet in length, native to the planet Myrkr, and most known for their ability to create a Force-neutral bubble. This ability evolved in response to predation by the Force-sensitive vornskrs. Many ysalamiri grouped together would expand their Force-neutral bubble by varying distances â€“ sometimes by kilometers.
 
 Ysalamiri sink their claws into the Olbio trees on which they live and draw nutrients. It is very difficult to remove a ysalamir from its tree without killing it, although this has been known to happen. Some few have developed back harness or nutrient frames which allow transport of the ysalamiri and, therefore, their Force repelling bubble. 
 
@@ -11354,7 +11354,7 @@ ___
 > |2 (-4)| 11 (+0)|10 (+0)|1 (-5)| 8 (-1)| 3 (-4)|
 > ___
 > - **Senses** darkvision 30 ft., passive Perception 9
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 0 (10 XP)
 > ___
 > ***Force Nulify.*** The Ysalamir create a 10ft radius bubble that neutralizes the presence of the force. The bubble doubles in radius for each Ysalamir standing inside it.
@@ -11380,7 +11380,7 @@ ___
 > ___
 > - **Condition Immunities** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
 > - **Senses** darkvision 30 ft., passive Perception 9
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small ysalamiri. The swarm can't regain hit points or gain temporary hit points.
@@ -11469,7 +11469,7 @@ ___
 > |14 (+2)|8 (-1)|14 (+2)|1 (-5)|10 (0)|5 (-3)|
 > ___
 > - **Senses** passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/4 (50 XP)
 > ___
 > ***Standing Leap.*** The clodhopper's long jump is up to 20 feet and its high jump is up to 10 ft., with or without a running start.
@@ -11499,7 +11499,7 @@ ___
 > |16 (+3)|8 (-1)|15 (+2)|2 (-4)|8 (-1)|4 (-3)|
 > ___
 > - **Senses** passive Perception 9
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/8 (25 XP)
 > ___
 > ### Actions
@@ -11523,7 +11523,7 @@ ___
 > |15 (+2)|10 (0)|13 (+1)|2 (-4)|11 (0)|7 (-2)|
 > ___
 > - **Senses** passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/8 (25 XP)
 > ___
 > ### Actions
@@ -11548,7 +11548,7 @@ ___
 > ___
 > - **Skills** Athletics +6
 > - **Senses** passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Keen Hearing.*** The fathier has advantage on Wisdom (Perception) checks that rely on hearing.
@@ -11581,7 +11581,7 @@ ___
 > ___
 > - **Skills** Stealth +5
 > - **Senses** darkvision 120 ft., passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Reckless.*** At the start of its turn, the fyrnock can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
@@ -11614,7 +11614,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 0 (10 XP)
 > ___
 > ***Mimicry.*** The geejaw can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
@@ -11645,7 +11645,7 @@ ___
 > |8 (-1)|15 (+2)|10 (0)|5 (-3)|13 (+1)|6 (-2)|
 > ___
 > - **Senses** passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/8 (25 XP)
 > ___
 > ***Keen Sight and Smell.*** The greysor has advantage on Wisdom (Perception) checks that rely on sight and smell.
@@ -11676,7 +11676,7 @@ ___
 > - **Damage Resistances** acid, poison
 > - **Condition Immunities** poisoned
 > - **Senses** darkvision 60 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/4 (50 XP)
 > ___
 > ***Keen Smell.*** The hive rat has advantage on Wisdom (Perception) checks that rely on smell.
@@ -11712,7 +11712,7 @@ ___
 > |21 (+5)|8 (-1)|15 (+2)|2 (-4)|12 (+1)|6 (-2)|
 > ___
 > - **Senses** X, passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Charge.*** If the hrumph moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) kinetic damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
@@ -11738,7 +11738,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 0 (10 XP)
 > ___
 > ***Keen Hearing.*** The jakrab has advantage on Wisdom (Perception) checks that rely on hearing.
@@ -11802,7 +11802,7 @@ ___
 > |14 (+2)|10 (+0)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
 > ___
 > - **Senses** passive Perception 10
-> - **Languages** –
+> - **Languages** â€“
 > - **Challenge** 1/8 (25 XP)
 > ___
 > ***Sure-Footed.*** The kaadu has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
@@ -11834,7 +11834,7 @@ ___
 > |18 (+4)|10 (0)|17 (+3)|2 (-4)|12 (-1)|5 (-3)|
 > ___
 > - **Senses** passive Perception 9
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Charge.*** If the moof moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) kinetic damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
@@ -11868,7 +11868,7 @@ ___
 > |13 (+1)|11 (0)|10 (0)|2 (-4)|9 (-1)|5 (-3)|
 > ___
 > - **Senses** passive Perception 9
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Charge.*** If the mott moves at least 15 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 3 (1d6) kinetic damage.
@@ -11903,7 +11903,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** darkvision 60 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Charge.*** If the nerf moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) kinetic damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
@@ -11932,7 +11932,7 @@ ___
 > ___
 > - **Damage Resistances** kinetic while inflated
 > - **Senses** passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/4 (50 XP)
 > ___
 > ***Inflate (Recharges after a Short or Long Rest).*** As a bonus action, the nuna increases in size for 1 minute. Anything it is wearing or carrying does not increase in size. While inflated, the nuna is Small, doubles its damage dice on attacks (included in the attacks), and makes Charisma (Intimidation) checks with advantage. If the nuna lacks the room to become Small, it attains the maximum size possible in the space available.
@@ -12029,7 +12029,7 @@ ___
 > ___
 > - **Damage Resistances** kinetic from unenhanced weapons
 > - **Senses** passive Perception 10
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/8 (25 XP)
 > ___
 > ### Actions
@@ -12055,7 +12055,7 @@ ___
 > ___
 > - **Skills** Perception +3, Stealth +4
 > - **Senses** passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/4 (50 XP)
 > ___
 > ***Keen Hearing and Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -12091,7 +12091,7 @@ ___
 > |4 (-3)|16 (+3)|11 (0)|2 (-4)|8 (-1)|5 (-3)|
 > ___
 > - **Senses** darkvision 60 ft., passive Perception 9
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/4 (50 XP)
 > ___
 >
@@ -12120,7 +12120,7 @@ ___
 > |16 (+3)|8 (-1)|15 (+2)|6 (-2)|14 (+2)|6 (-2)|
 > ___
 > - **Senses** darkvision 60 ft., passive Perception 12
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Bioluminescent.*** The sloth emits bright light in a 5-foot radius and dim light for an additional 10 ft..
@@ -12157,7 +12157,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** darkvision 60 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/8 (25 XP)
 > ___
 > ***Iron Scent.*** The steelpecker can pinpoint, by scent, the location of metal within 30 feet of it.
@@ -12240,7 +12240,7 @@ ___
 > |16 (+3)|8 (-1)|14 (+2)|2 (-4)|8 (-1)|5 (-3)|
 > ___
 > - **Senses** passive Perception 9
-> - **Languages** –
+> - **Languages** â€“
 > - **Challenge** 1/8 (25 XP)
 > ___
 > ### Actions
@@ -12265,7 +12265,7 @@ ___
 > ___
 > - **Skills** Perception +4
 > - **Senses** darkvision 60 ft., passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Keen Sight and Smell.*** The tusk cat has advantage on Wisdom (Perception) checks that rely on sight and smell.
@@ -12302,7 +12302,7 @@ ___
 > ___
 > - **Skills** Perception +4
 > - **Senses** passive Perception 14
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ***Dive Attack.*** If the twirrl is flying and dives at least 30 feet straight toward a target and then hits it with a talon attack, the attack deals an extra 2 (1d4) damage to the target.
@@ -12332,7 +12332,7 @@ ___
 > - **Skills** Athletics +5, Stealth +5, Perception +3
 > - **Damage Resistances** energy, ion, and kinetic from unenhanced weapons
 > - **Senses** passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 >
@@ -12370,7 +12370,7 @@ ___
 > ___
 > - **Skills** Perception +6, Stealth +4
 > - **Senses** darkvision 60 ft., passive Perception 16
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 1/8 (25 XP)
 > ___
 > ***Keen Sight and Smell.*** The vulptex has advantage on Wisdom (Perception) checks that rely on sight or smell.
@@ -12397,7 +12397,7 @@ ___
 > ___
 > - **Skills** Stealth +5
 > - **Senses** passive Perception 11
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 0 (10 XP)
 > ___
 > ***Flyby.*** The whisper bird doesn't provoke opportunity attacks when it flies out of an enemy's reach.
@@ -12467,7 +12467,7 @@ ___
 > ___
 > - **Skills** Perception +3
 > - **Senses** darkvision 60 ft., passive Perception 13
-> - **Languages** —
+> - **Languages** â€”
 > - **Challenge** 2 (450 XP)
 > ___
 > ***Aggressive.*** As a bonus action, the zalaaca can move up to its speed toward a hostile creature that it can see.
